@@ -1,2 +1,2 @@
-package main
+package main{
 console.log("Hello adding another string");
